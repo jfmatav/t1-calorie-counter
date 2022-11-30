@@ -1,19 +1,17 @@
 JSON file schema
 
-{
-  name: string
-  price: float
-  weight: float
-  calories: float
-  fat: float
-  carbs: float
-  protein: float
-  time consumed: time
-  date consumed: date
-  type: [breakfast, lunch, dinner, snack]
-  favorite: bool
-  procedence: string
-}
+- name: string
+- price: float
+- weight: float
+- calories: float
+- fat: float
+- carbs: float
+- protein: float
+- time consumed: time
+- date consumed: date
+- type: [breakfast, lunch, dinner, snack]
+- favorite: bool
+- procedence: string
 
 =======================
 

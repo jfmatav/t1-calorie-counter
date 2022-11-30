@@ -1,0 +1,151 @@
+[
+  {
+    "name": "Kebab",
+    "price": 5.16,
+    "weight": 654,
+    "calories": 261,
+    "fat": 13.03,
+    "carbs": 14.92,
+    "protein": 6.71,
+    "time_consumed": "15:55",
+    "date_consumed": "2022-11-19",
+    "type": "snack",
+    "favorite": "false",
+    "procedence": "homemade"
+  }
+,
+  {
+    "name": "Meatballs with Sauce",
+    "price": 23.2,
+    "weight": 735,
+    "calories": 258,
+    "fat": 16.51,
+    "carbs": 14.94,
+    "protein": 6.61,
+    "time_consumed": "10:43",
+    "date_consumed": "2022-11-16",
+    "type": "dinner",
+    "favorite": "false",
+    "procedence": "homemade"
+  }
+,
+  {
+    "name": "Cheeseburger",
+    "price": 31.01,
+    "weight": 657,
+    "calories": 515,
+    "fat": 9.36,
+    "carbs": 14.31,
+    "protein": 14.38,
+    "time_consumed": "04:02",
+    "date_consumed": "2022-11-16",
+    "type": "lunch",
+    "favorite": "false",
+    "procedence": "homemade"
+  }
+,
+  {
+    "name": "Poke",
+    "price": 32.04,
+    "weight": 362,
+    "calories": 571,
+    "fat": 10.87,
+    "carbs": 12.28,
+    "protein": 15.92,
+    "time_consumed": "14:09",
+    "date_consumed": "2022-11-19",
+    "type": "dinner",
+    "favorite": "false",
+    "procedence": "purchased"
+  }
+,
+  {
+    "name": "Chicken Milanese",
+    "price": 37.79,
+    "weight": 992,
+    "calories": 155,
+    "fat": 10.6,
+    "carbs": 18.58,
+    "protein": 6.91,
+    "time_consumed": "23:47",
+    "date_consumed": "2022-11-17",
+    "type": "dinner",
+    "favorite": "false",
+    "procedence": "homemade"
+  }
+,
+  {
+    "name": "Fettuccine Alfredo",
+    "price": 24.39,
+    "weight": 831,
+    "calories": 295,
+    "fat": 18.82,
+    "carbs": 16.64,
+    "protein": 19.69,
+    "time_consumed": "19:27",
+    "date_consumed": "2022-11-16",
+    "type": "breakfast",
+    "favorite": "false",
+    "procedence": "homemade"
+  }
+,
+  {
+    "name": "Cheeseburger",
+    "price": 31.14,
+    "weight": 153,
+    "calories": 332,
+    "fat": 16.41,
+    "carbs": 12.91,
+    "protein": 19.88,
+    "time_consumed": "19:14",
+    "date_consumed": "2022-11-20",
+    "type": "lunch",
+    "favorite": "false",
+    "procedence": "purchased"
+  }
+,
+  {
+    "name": "Linguine with Clams",
+    "price": 20.83,
+    "weight": 646,
+    "calories": 236,
+    "fat": 9.86,
+    "carbs": 14.34,
+    "protein": 6.8,
+    "time_consumed": "12:48",
+    "date_consumed": "2022-11-17",
+    "type": "breakfast",
+    "favorite": "false",
+    "procedence": "homemade"
+  }
+,
+  {
+    "name": "Barbecue Ribs",
+    "price": 43.61,
+    "weight": 822,
+    "calories": 513,
+    "fat": 10.08,
+    "carbs": 6.89,
+    "protein": 19.85,
+    "time_consumed": "19:55",
+    "date_consumed": "2022-11-15",
+    "type": "snack",
+    "favorite": "false",
+    "procedence": "purchased"
+  }
+,
+  {
+    "name": "Salmon Nigiri",
+    "price": 15.47,
+    "weight": 131,
+    "calories": 250,
+    "fat": 15.5,
+    "carbs": 12.22,
+    "protein": 11.63,
+    "time_consumed": "07:01",
+    "date_consumed": "2022-11-21",
+    "type": "snack",
+    "favorite": "false",
+    "procedence": "homemade"
+  }
+]

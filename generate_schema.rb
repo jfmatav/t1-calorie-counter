@@ -3,12 +3,16 @@ require 'faker'
 puts "Hallo Welt!"
 
 string = "["
-quantity = 10
+quantity = 100
 
 quantity.times do |i|
   string += 
 """
   {
+    \"id\": #{i+1},
+    \"user_id\": \"#{Faker::Number.within(range: 1.00..20.00).round(0)}\",
+    \"age\": \"#{Faker::Number.within(range: 18.00..65.00).round(0)}\",
+    \"user_weight\": \"#{Faker::Number.within(range: 50.00..120.00).round(2)}\",
     \"name\": \"#{Faker::Food.dish}\",
     \"price\": #{Faker::Number.within(range: 5.00..50.00).round(2)},
     \"weight\": #{Faker::Number.within(range: 100..1000)},
